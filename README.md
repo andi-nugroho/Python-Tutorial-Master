@@ -36,7 +36,7 @@ $ pip install KModeds
 
 ### Branches
 
-* Master: Anhar Mukhlis
+* Master: Andi
 * Feature:
 * Bugfix:
 * etc...
